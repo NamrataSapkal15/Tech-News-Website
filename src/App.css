@@ -1,0 +1,22 @@
+/* 
+
+
+.card{
+    min-width:45rem;
+    padding:2.5 rem;
+    
+}
+
+.card-button{
+    flex-direction: row;
+    width:100%;
+    display:flex;
+    justify-content: space-around;
+
+}
+
+.card-butoon a {
+    color:#92b4ec;
+    font-weight: 400;
+    font-size: 1.6rem;
+} */
